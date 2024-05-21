@@ -1,1 +1,1 @@
-# reduceGroupedData
+Firstly used reduced column to reduce the three columns(F_TL, M_TL, T_TL). Then when we declare the selector and reducer to work on them. Here is the [The GEE code link](https://code.earthengine.google.com/af73b8b9cd24b66f70572e0654690534), then the [Reduced column code snapshot](https://github.com/AtikulRahi/reduceGroupedData/blob/main/reduced%20Column.JPG), and lastly the [Reduced column code](https://github.com/AtikulRahi/reduceGroupedData/blob/main/reducedColumn.js).
